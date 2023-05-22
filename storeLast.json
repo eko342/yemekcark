@@ -1,0 +1,146 @@
+[
+  {
+    "product" : "1X Chance Spin",
+    "ptPrice" : "TRY 64,99",
+    "firstData":"userChanceSpin",
+    "firstValue": "1",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5oQnwmq4yViMU7sN0bTbhOnSEp5KsSLraxw&usqp=CAU",
+    "pid" : "premium_405"
+  },
+   {
+    "product" : "1X Chance Scratch",
+    "ptPrice" : "TRY 46,99",
+    "firstData":"userChanceScratch",
+    "firstValue": "1",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdbNgvpB70UyrbOUv0htW5u3ThxNIfP6jjA&usqp=CAU",
+    "pid" : "premium_943"
+  },
+  {
+    "product" : "100X Spin",
+    "ptPrice" : "TRY 11,99",
+    "firstData":"userSpin",
+    "firstValue": "100",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbBXhXEUSNVwRZqgi2V5v6-KHU88Jx2Aj-Q&usqp=CAU",
+    "pid" : "premium_1445"
+  },
+    {
+     "product" : "250X Spin",
+    "ptPrice" : "TRY 27,99",
+    "firstData":"userSpin",
+    "firstValue": "250",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbBXhXEUSNVwRZqgi2V5v6-KHU88Jx2Aj-Q&usqp=CAU",
+    "pid" : "premium_29"
+  },
+  {
+    "product" : "500X Spin",
+    "ptPrice" : "TRY 56,99",
+    "firstData":"userSpin",
+    "firstValue": "500",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbBXhXEUSNVwRZqgi2V5v6-KHU88Jx2Aj-Q&usqp=CAU",
+    "pid" : "premium_334"
+  },
+    {
+     "product" : "1000X Spin",
+    "ptPrice" : "TRY 109,99",
+    "firstData":"userSpin",
+    "firstValue": "1000",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbBXhXEUSNVwRZqgi2V5v6-KHU88Jx2Aj-Q&usqp=CAU",
+    "pid" : "premium_825"
+  },
+    {
+    "product" : "100X Scratch",
+    "ptPrice" : "TRY 21,99",
+    "firstData":"userScratch",
+    "firstValue": "50",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdbNgvpB70UyrbOUv0htW5u3ThxNIfP6jjA&usqp=CAU",
+    "pid" : "premium_13"
+  },
+    {
+     "product" : "200X Scratch",
+    "ptPrice" : "TRY 40,99",
+    "firstData":"userScratch",
+    "firstValue": "200",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdbNgvpB70UyrbOUv0htW5u3ThxNIfP6jjA&usqp=CAU",
+    "pid" : "premium_24"
+  },
+  {
+    "product" : "400X Scratch",
+    "ptPrice" : "TRY 80,99",
+    "firstData":"userScratch",
+    "firstValue": "400",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdbNgvpB70UyrbOUv0htW5u3ThxNIfP6jjA&usqp=CAU",
+    "pid" : "premium_36"
+  },
+    {
+     "product" : "800X Scratch",
+    "ptPrice" : "TRY 159,99",
+    "firstData":"userScratch",
+    "firstValue": "800",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdbNgvpB70UyrbOUv0htW5u3ThxNIfP6jjA&usqp=CAU",
+    "pid" : "premium_92"
+  },
+    {
+    "product" : "50X Joker",
+    "ptPrice" : "TRY 27,99",
+    "firstData":"userJoker",
+    "firstValue": "100",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
+    "pid" : "premium_1434"
+  },
+    {
+     "product" : "100X Joker",
+    "ptPrice" : "TRY 54,99",
+    "firstData":"userJoker",
+    "firstValue": "250",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
+    "pid" : "premium_2545"
+  },
+  {
+    "product" : "250X Joker",
+    "ptPrice" : "TRY 109,99",
+    "firstData":"userJoker",
+    "firstValue": "500",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
+    "pid" : "premium_3662"
+  },
+    {
+     "product" : "500X Joker",
+    "ptPrice" : "TRY 214,99",
+    "firstData":"userJoker",
+    "firstValue": "1000",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
+    "pid" : "premium_0594"
+  },
+   {
+    "product" : "50X DP",
+    "ptPrice" : "TRY 46,99",
+    "firstData":"userDoublePoint",
+    "firstValue": "100",
+    "imageUrl" : "https://static.vecteezy.com/system/resources/previews/018/807/287/non_2x/the-girl-received-double-points-valentine-s-day-promotion-vector.jpg",
+    "pid" : "premium_4548"
+  },
+    {
+     "product" : "100X DP",
+    "ptPrice" : "TRY 88,99",
+    "firstData":"userDoublePoint",
+    "firstValue": "250",
+    "imageUrl" : "https://static.vecteezy.com/system/resources/previews/018/807/287/non_2x/the-girl-received-double-points-valentine-s-day-promotion-vector.jpg",
+    "pid" : "premium_7544"
+  },
+  {
+    "product" : "250X DP",
+    "ptPrice" : "TRY 174,99",
+    "firstData":"userDoublePoint",
+    "firstValue": "500",
+    "imageUrl" : "https://static.vecteezy.com/system/resources/previews/018/807/287/non_2x/the-girl-received-double-points-valentine-s-day-promotion-vector.jpg",
+    "pid" : "premium_3494"
+  },
+    {
+     "product" : "500X DP",
+    "ptPrice" : "TRY 339,99",
+    "firstData":"userDoublePoint",
+    "firstValue": "1000",
+    "imageUrl" : "https://static.vecteezy.com/system/resources/previews/018/807/287/non_2x/the-girl-received-double-points-valentine-s-day-promotion-vector.jpg",
+    "pid" : "premium_2524"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+   "slider_id" : "0",
+    "slider_image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1p6OIW9J8yqtQNLDbx_sFEjLIcpdzcb9etA&usqp=CAU",
+    "slider_image_description" : "Güncelleme Hakkında",
+     "slider_image_description_others" : "Invite your friend and earn",
+    "slider_image_link" : "- Günlük kazı kazan ve video haklarınız otomatik eklenecek şekilde ayarlandı. Ödül için kazımanız gereken sayı 6'dan 4'e düşürüldü. Kelime oyununa yeni kelimeler eklendi. Geçiş reklamı sayısı azaltıldı. Ve birçok hata düzeltmeleri ve iyileştirmeler yapıldı. Önerileriniz için uygulama içerisinden bize ulaşmaktan çekinmeyin, şanslı günler! :)",
+    "slider_image_link_others" : "You can earn point,lets invite them! :) Don't forget to check out my profile or tasks page!",
+     "slider_show" : "hide",
+      "slider_type" : "info"
+  },
+  {
+   "slider_id" : "1",
+    "slider_image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5oQnwmq4yViMU7sN0bTbhOnSEp5KsSLraxw&usqp=CAU",
+    "slider_image_description" : "5 Çark Hakkı Hediye!",
+    "slider_image_description_others" : "5 Spin right Free!",
+    "slider_image_link" : "5",
+     "slider_image_link_others" : "5",
+    "slider_show" : "show",
+    "slider_type" : "spinb4443449c" 
+  },
+  {
+     "slider_id" : "2",
+    "slider_image" : "https://img.freepik.com/free-vector/money-gift-as-charity-donation-bonus-reward-as-cashback-prize-jackpot-lucky-win-present_212005-448.jpg?size=626&ext=jpg",
+    "slider_image_description" : "3 Kazıma hakkı Hediye!",
+     "slider_image_description_others" : "Application Active!",
+     "slider_image_link" : "3",
+      "slider_image_link_others" : "Application active ",
+    "slider_show" : "hide",
+    "slider_type" : "scratfcfgh"
+  },
+  {
+     "slider_id" : "3",
+    "slider_image" : "https://img.freepik.com/free-vector/money-gift-as-charity-donation-bonus-reward-as-cashback-prize-jackpot-lucky-win-present_212005-448.jpg?size=626&ext=jpg",
+    "slider_image_description" : "5 Joker Hediye!",
+     "slider_image_description_others" : "Application active.",
+     "slider_image_link" : "5",
+      "slider_image_link_others" : "Application active ",
+    "slider_show" : "hide",
+    "slider_type" : "scratchpoint"
+  },
+   {
+      "slider_id" : "4",
+    "slider_image" : "https://assets.change.org/photos/8/lc/ql/aQLcQLfLRPFFKtx-800x450-noPad.jpg?1513979191",
+    "slider_image_description" : "1 Mama bağışla",
+     "slider_image_description_others" : "Donate 1 Pet Food",
+    "slider_image_link" : "Şanslı Cevap uygulaması olarak sokak hayvanlarına biz de destek oluyoruz! Sizlerin desteğiyle onlara 1 mama hediye ediyoruz, cüzdan bölümünden hediye edebilirsiniz :)",
+     "slider_image_link_others" : "As the Lucky Answer application, we also support stray animals! With your support, we are giving them 1 food as a gift, you can gift them in the wallet section :)",
+    "slider_show" : "show",
+    "slider_type" : "info"
+  },
+  {
+     "slider_id" : "5",
+      "slider_image" : "https://static.daktilo.com/sites/830/uploads/2021/07/30/large/nefes.jpg",
+    "slider_image_description" : "1 Fidan Bağışla",
+     "slider_image_description_others" : "Donate 1 Sapling",
+    "slider_image_link" : "Şanslı Cevap uygulaması olarak çevreye biz de destek oluyoruz! Sizlerin desteğiyle onlara 1 fidan hediye ediyoruz, cüzdan bölümünden hediye edebilirsiniz :)",
+     "slider_image_link_others" : "As the Lucky Answer application, we also support the environment! With your support, we are giving them 1 sapling as a gift, you can gift it from the wallet section :)",
+     "slider_show" : "show",
+      "slider_type" : "info"
+  },
+  {
+     "slider_id" : "6",
+    "slider_image" : "https://media.istockphoto.com/vectors/young-wealthy-man-pays-card-using-mobile-payment-vector-id1066818018?k=20&m=1066818018&s=612x612&w=0&h=jJ17hiwIBZ6H31TNYOBrjtW-aBnOOrLoTXsWtz9XwmE=",
+    "slider_image_description" : "Uygulamamız ile para kazanın",
+     "slider_image_description_others" : "Application active.",
+    "slider_image_link" : "https://",
+     "slider_image_link_others" : "Application active",
+    "slider_show" : "hide",
+      "slider_type" : "link"
+  },
+  {
+     "slider_id" : "7",
+    "slider_image" : "https://media.istockphoto.com/id/1217829052/vector/vector-flat-illustration-refer-a-friend-affiliate-partnership-and-earn-money-marketing.jpg?s=612x612&w=0&k=20&c=1zLYgy360ayryj3NoeliPzVT_D-TptuQXWpRHLvKmWg=",
+    "slider_image_description" : "Arkadaş Davet Et!",
+     "slider_image_description_others" : "Collect and win!",
+    "slider_image_link" : "Arkadaşlarını davet ederek puan kazanabilirsin, arkadaşını davet et sayfasından davet etmeyi unutma! :)",
+     "slider_image_link_others" : "By collecting points you can get rewards from the wallet or gift these points to charities! :)",
+    "slider_show" : "show",
+      "slider_type" : "info"
+  },
+  {
+     "slider_id" : "8",
+    "slider_image" : "https://static.vecteezy.com/system/resources/thumbnails/020/024/272/small/deposit-illustration-vector.jpg",
+    "slider_image_description" : "Ödemeler Hakkında",
+     "slider_image_description_others" : "About Payments",
+    "slider_image_link" : "Ödemeler her ayın 20-25'i arasında yapılır ve kullanıcılar uygulama üzerinden bilgilendirilir. Hile veya haksız kazanç tespit edilmesi halinde ödeme yapılmaz ve hesap sınırsız şekilde engellenir.",
+     "slider_image_link_others" : "Payments are made between the 20th and 25th of each month and users are informed through the application. If cheating or unfair profit is detected, no payment will be made and the account will be blocked indefinitely.",
+    "slider_show" : "show",
+      "slider_type" : "info"
+  },
+  {
+    "slider_id" : "9",
+    "slider_image" : "https://www.ravedigital.agency/wp-content/uploads/2017/08/loyalty_rewards_program_2.jpg",
+    "slider_image_description" : "Ödemeler Hakkında",
+     "slider_image_description_others" : "About Payments",
+    "slider_image_link" : "https://",
+     "slider_image_link_others" : "https://",
+    "slider_show" : "hide",
+      "slider_type" : "link"
+  }
+]
