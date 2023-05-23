@@ -9,60 +9,25 @@
     "price" : "55",
     "purl" : "https://assets.change.org/photos/8/lc/ql/aQLcQLfLRPFFKtx-800x450-noPad.jpg?1513979191"
   },
-    {
-     "name" : "25 TL Kod",
-    "price" : "25",
-    "purl" : "data:image/jpeg;base64,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"
-  },
-     {
-     "name" : "50 TL Kod",
-    "price" : "50",
-    "purl" : "https://productimages.hepsiburada.net/s/80/375/110000021777819.jpg"
-  },
-   {
-     "name" : "Netflix 100 TL",
-    "price" : "110",
-    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2FEkran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-05-22%20110539.png?alt=media&token=0d45ea0f-bb52-4a73-a7df-5fd90c709049"
-  },
-   {
-     "name" : "Blutv 25 TL",
-    "price" : "25",
-    "purl" : "https://cdn.dsmcdn.com/ty399/product/media/images/20220415/16/92657531/83401900/2/2_org_zoom.jpeg"
-  },
-   {
+  {
      "name" : "Yemeksepeti 50 TL",
     "price" : "55",
     "purl" : "https://productimages.hepsiburada.net/s/309/550/110000301949267.jpg/format:webp"
   },
-  {
-     "name" : "TT Haftalık 1 GB",
-    "price" : "35",
-    "purl" : "https://bireysel.turktelekom.com.tr/mobil/web/kampanyalar/PublishingImages/1-haftalik-1gb-list.jpg"
-  },
-  {
-   "name" : "TT Haftalık 2 GB",
-    "price" : "60",
-    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmppBbW2V4-DFoduhohj__lC9-fUCogkJUhg&usqp=CAU"
-  },
-  {
-     "name" : "Bimcell 30 TL",
-    "price" : "60",
-    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtRoAAo2hPoTut5JR4hntzD6ImMpO26b7mg&usqp=CAU"
+   {
+     "name" : "Yemeksepeti 100 TL",
+    "price" : "110",
+    "purl" : "https://productimages.hepsiburada.net/s/309/550/110000301949267.jpg/format:webp"
   },
    {
-     "name" : "Bimcell 40 TL",
-    "price" : "110",
-    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtRoAAo2hPoTut5JR4hntzD6ImMpO26b7mg&usqp=CAU"
+     "name" : "Yemeksepeti 150 TL",
+    "price" : "165",
+    "purl" : "https://productimages.hepsiburada.net/s/309/550/110000301949267.jpg/format:webp"
   },
-    {
-     "name" : "Turkcell 80 TL",
-    "price" : "220",
-    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlrlIUxNaM0f4DFuLtfyNAE-MZeZV4SlBkUw&usqp=CAU"
-  },
-    {
-     "name" : "Türk T. 40 TL",
-    "price" : "110",
-    "purl" : "https://www.turktelekom.com.tr/assets/img/turk-telekom-og-image.jpg"
+  {
+     "name" : "Yemeksepeti 200 TL",
+    "price" : "215",
+    "purl" : "https://productimages.hepsiburada.net/s/309/550/110000301949267.jpg/format:webp"
   },
   {
      "name" : "Ininal 20 TL",
@@ -88,26 +53,6 @@
   "name" : "Iban 20 TL",
     "price" : "60",
     "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2IV2Y6DESpwHj3Lq0nLQmzVb02tIavm27ig&usqp=CAU"
-  },
-  {
-   "name" : "Iban 50 TL",
-    "price" : "150",
-    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2IV2Y6DESpwHj3Lq0nLQmzVb02tIavm27ig&usqp=CAU"
-  },
-    {
-     "name" : "Steam 20 TL",
-    "price" : "60",
-    "purl" : "https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png"
-  },
-   {
-     "name" : "Steam 50 TL",
-    "price" : "150",
-    "purl" : "https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png"
-  },
-  {
-     "name" : "25TL Gift Card",
-    "price" : "65",
-    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3OJgQCeWqhl527SPvhpvyW-NyeZugI8BfNg&usqp=CAU"
   },
   {
      "name" : "Pubg 325 Uc",
