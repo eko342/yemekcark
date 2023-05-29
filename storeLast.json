@@ -63,38 +63,6 @@
     "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdbNgvpB70UyrbOUv0htW5u3ThxNIfP6jjA&usqp=CAU",
     "pid" : "premium_92"
   },
-    {
-    "product" : "50X Joker",
-    "ptPrice" : "TRY 27,99",
-    "firstData":"userJoker",
-    "firstValue": "100",
-    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
-    "pid" : "premium_1434"
-  },
-    {
-     "product" : "100X Joker",
-    "ptPrice" : "TRY 54,99",
-    "firstData":"userJoker",
-    "firstValue": "250",
-    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
-    "pid" : "premium_2545"
-  },
-  {
-    "product" : "250X Joker",
-    "ptPrice" : "TRY 109,99",
-    "firstData":"userJoker",
-    "firstValue": "500",
-    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
-    "pid" : "premium_3662"
-  },
-    {
-     "product" : "500X Joker",
-    "ptPrice" : "TRY 214,99",
-    "firstData":"userJoker",
-    "firstValue": "1000",
-    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
-    "pid" : "premium_0594"
-  },
    {
     "product" : "50X DP",
     "ptPrice" : "TRY 46,99",
