@@ -80,43 +80,35 @@
     "pid" : "premium_92"
   },
    {
-    "product" : "25X Joker",
-    "ptPrice" : "TRY 14,99",
-    "firstData":"userJoker",
-    "firstValue": "25",
-    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
-    "pid" : "premium_9241456"
-  },
-    {
-    "product" : "50X Joker",
-    "ptPrice" : "TRY 27,99",
-    "firstData":"userJoker",
+    "product" : "50X DP",
+    "ptPrice" : "TRY 46,99",
+    "firstData":"userDoublePoint",
     "firstValue": "50",
-    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
-    "pid" : "premium_1434"
+    "imageUrl" : "https://static.vecteezy.com/system/resources/previews/018/807/287/non_2x/the-girl-received-double-points-valentine-s-day-promotion-vector.jpg",
+    "pid" : "premium_4548"
   },
     {
-     "product" : "100X Joker",
-    "ptPrice" : "TRY 54,99",
-    "firstData":"userJoker",
+     "product" : "100X DP",
+    "ptPrice" : "TRY 88,99",
+    "firstData":"userDoublePoint",
     "firstValue": "100",
-    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
-    "pid" : "premium_2545"
+    "imageUrl" : "https://static.vecteezy.com/system/resources/previews/018/807/287/non_2x/the-girl-received-double-points-valentine-s-day-promotion-vector.jpg",
+    "pid" : "premium_7544"
   },
   {
-    "product" : "250X Joker",
-    "ptPrice" : "TRY 109,99",
-    "firstData":"userJoker",
+    "product" : "250X DP",
+    "ptPrice" : "TRY 174,99",
+    "firstData":"userDoublePoint",
     "firstValue": "250",
-    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
-    "pid" : "premium_3662"
+    "imageUrl" : "https://static.vecteezy.com/system/resources/previews/018/807/287/non_2x/the-girl-received-double-points-valentine-s-day-promotion-vector.jpg",
+    "pid" : "premium_3494"
   },
     {
-     "product" : "500X Joker",
-    "ptPrice" : "TRY 214,99",
-    "firstData":"userJoker",
+     "product" : "500X DP",
+    "ptPrice" : "TRY 339,99",
+    "firstData":"userDoublePoint",
     "firstValue": "500",
-    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
-    "pid" : "premium_0594"
+    "imageUrl" : "https://static.vecteezy.com/system/resources/previews/018/807/287/non_2x/the-girl-received-double-points-valentine-s-day-promotion-vector.jpg",
+    "pid" : "premium_2524"
   }
 ]
