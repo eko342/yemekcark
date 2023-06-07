@@ -47,6 +47,18 @@
     "purl" : "https://www.donanimhaber.com/images/images/haber/131735/src/kvkk-yemeksepeti-ne-inceleme-baslatti131735_0.jpg",
     "id" : "7"
   },
+    {
+     "name" : "500 GR Fıstık",
+    "price" : "120",
+    "purl" : "https://media.istockphoto.com/id/1360072519/tr/foto%C4%9Fraf/close-up-roasted-pistachios-in-a-bamboo-bowl-nuts-from-gaziantep-turkey-region.jpg?s=612x612&w=0&k=20&c=k3StuMiFH7Ut5px5e53iuk5YtXYIJBYmGA1iT54ydO0=",
+    "id" : "3"
+  },
+    {
+     "name" : "1000 GR Fıstık",
+    "price" : "240",
+    "purl" : "https://media.istockphoto.com/id/1360072519/tr/foto%C4%9Fraf/close-up-roasted-pistachios-in-a-bamboo-bowl-nuts-from-gaziantep-turkey-region.jpg?s=612x612&w=0&k=20&c=k3StuMiFH7Ut5px5e53iuk5YtXYIJBYmGA1iT54ydO0=",
+    "id" : "3"
+  },
   {
      "name" : "Ininal 20 TL",
     "price" : "60",
@@ -79,13 +91,13 @@
   },
    {
   "name" : "Lcwaikiki 100 TL",
-    "price" : "120",
+    "price" : "150",
     "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/23234213.png?alt=media&token=6056a108-1136-42ab-aa04-c4514abd2233&_gl=1*1bj67gy*_ga*MTY0NDMzNTA4LjE2NjMxMDMzMTA.*_ga_CW55HF8NVT*MTY4NjA5ODIzOC42Ny4xLjE2ODYxMDE2OTMuMC4wLjA.",
     "id" : "13"
   },
   {
   "name" : "Lcwaikiki 250 TL",
-    "price" : "295",
+    "price" : "425",
     "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/23234213.png?alt=media&token=6056a108-1136-42ab-aa04-c4514abd2233&_gl=1*1bj67gy*_ga*MTY0NDMzNTA4LjE2NjMxMDMzMTA.*_ga_CW55HF8NVT*MTY4NjA5ODIzOC42Ny4xLjE2ODYxMDE2OTMuMC4wLjA.",
     "id" : "14"
   }
